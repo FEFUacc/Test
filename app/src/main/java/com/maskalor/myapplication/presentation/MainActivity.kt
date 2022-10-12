@@ -34,6 +34,7 @@ class MainActivity : AppCompatActivity() {
                 binding.title.text.toString(),
                 binding.desc.text.toString()
             )
+            //
         }
     }
 }
